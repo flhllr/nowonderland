@@ -1,0 +1,25 @@
+{ "columns":1,
+ "image":"collidetile.png",
+ "imageheight":35,
+ "imagewidth":37,
+ "margin":0,
+ "name":"collidetile",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":0,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }]
+        }],
+ "tilewidth":32,
+ "transparentcolor":"#898989",
+ "type":"tileset",
+ "version":1.4
+}
